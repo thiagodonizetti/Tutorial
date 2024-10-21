@@ -14,7 +14,7 @@ class Main {
   }
 
   public void menuPrincipal() {
-    System.out.println("===== Menu Principal =====");
+    System.out.println("===== Menu Principal ===== ");
     System.out.println("1. Criar Conta");
     System.out.println("2. Mostrar Contas");
     System.out.println("3. Alterar Conta");
